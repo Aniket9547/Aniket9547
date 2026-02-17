@@ -1,5 +1,13 @@
-#  About Me:
-BCA Student | Data Analytics & Web Development Enthusiast<br><br>Skilled in Excel, Power BI, Python, HTML, CSS, JavaScript<br><br>Built AI Resume Builder, Weather App & Web Projects<br><br>Focused on Real-World Projects & Continuous Learning<br><br>Aspiring Data Analyst & Developer
+# 💫 About Me:
+BCA Student | Data Analytics & Web Development Enthusiast
+<br><br>
+Skilled in Excel, Power BI, Python, HTML, CSS, JavaScript
+<br><br>
+Built AI Resume Builder, Weather App & Web Projects
+<br><br>
+Focused on Real-World Projects & Continuous Learning
+<br><br>
+Aspiring Data Analyst & Developer
 
 
 ## 🌐 Socials:
@@ -19,7 +27,7 @@ BCA Student | Data Analytics & Web Development Enthusiast<br><br>Skilled in Exce
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aniket9547&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=aniket9547&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aniket9547&icon=0&color=6)](https://visitcount.itsvg.in)
