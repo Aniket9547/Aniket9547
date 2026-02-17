@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 BCA Student | Data Analytics & Web Development Enthusiast<br><br>Skilled in Excel, Power BI, Python, HTML, CSS, JavaScript<br><br>Built AI Resume Builder, Weather App & Web Projects<br><br>Focused on Real-World Projects & Continuous Learning<br><br>Aspiring Data Analyst & Developer
 
 
